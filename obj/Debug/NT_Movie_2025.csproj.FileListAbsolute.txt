@@ -1,0 +1,16 @@
+D:\NT_Movie_2025\bin\Debug\NT_Movie_2025.exe.config
+D:\NT_Movie_2025\bin\Debug\NT_Movie_2025.exe
+D:\NT_Movie_2025\bin\Debug\NT_Movie_2025.pdb
+D:\NT_Movie_2025\obj\Debug\NT_Movie_2025.csproj.AssemblyReference.cache
+D:\NT_Movie_2025\obj\Debug\NT_Movie_2025.frm_member.resources
+D:\NT_Movie_2025\obj\Debug\NT_Movie_2025.frm_movie.resources
+D:\NT_Movie_2025\obj\Debug\NT_Movie_2025.frm_movie_type.resources
+D:\NT_Movie_2025\obj\Debug\NT_Movie_2025.frm_rent.resources
+D:\NT_Movie_2025\obj\Debug\NT_Movie_2025.Login.resources
+D:\NT_Movie_2025\obj\Debug\NT_Movie_2025.Properties.Resources.resources
+D:\NT_Movie_2025\obj\Debug\NT_Movie_2025.csproj.GenerateResource.cache
+D:\NT_Movie_2025\obj\Debug\NT_Movie_2025.csproj.CoreCompileInputs.cache
+D:\NT_Movie_2025\obj\Debug\NT_Movie_2025.exe
+D:\NT_Movie_2025\obj\Debug\NT_Movie_2025.pdb
+D:\NT_Movie_2025\obj\Debug\NT_Movie_2025.adduser.resources
+D:\NT_Movie_2025\obj\Debug\NT_Movie_2025.frm_menu.resources

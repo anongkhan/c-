@@ -38,7 +38,7 @@ namespace NT_Movie_2025
             {
                 try
                 {
-                    SqlConnection con = new SqlConnection("Data Source=DESKTOP-DG7MDRT; Initial Catalog=NT_Movie_2025; Integrated Security=SSPI;");
+                    SqlConnection con = new SqlConnection("Data Source=NONG; Initial Catalog=NT_Movie_2025; Integrated Security=SSPI;");
                     SqlCommand cmd = new SqlCommand("SELECT * FROM tbl_user WHERE user_email=@user_email and user_pass=@user_pass", con);
                     cmd.Parameters.AddWithValue("@user_email", textBox1.Text);
                     cmd.Parameters.AddWithValue("@user_pass", textBox2.Text);

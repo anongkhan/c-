@@ -1,70 +1,66 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\NT_Movie_2025\\",
+  "WorkspaceRootPath": "D:\\C#\\c-\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9C845790-4E77-4B4B-A121-BE3D7F37C551}|NT_Movie_2025.csproj|D:\\NT_Movie_2025\\frm_movie_type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C845790-4E77-4B4B-A121-BE3D7F37C551}|NT_Movie_2025.csproj|solutionrelative:frm_movie_type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C845790-4E77-4B4B-A121-BE3D7F37C551}|NT_Movie_2025.csproj|D:\\NT_Movie_2025\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C845790-4E77-4B4B-A121-BE3D7F37C551}|NT_Movie_2025.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C845790-4E77-4B4B-A121-BE3D7F37C551}|NT_Movie_2025.csproj|D:\\NT_Movie_2025\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9C845790-4E77-4B4B-A121-BE3D7F37C551}|NT_Movie_2025.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C845790-4E77-4B4B-A121-BE3D7F37C551}|NT_Movie_2025.csproj|D:\\NT_Movie_2025\\frm_movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9C845790-4E77-4B4B-A121-BE3D7F37C551}|NT_Movie_2025.csproj|solutionrelative:frm_movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C845790-4E77-4B4B-A121-BE3D7F37C551}|NT_Movie_2025.csproj|D:\\NT_Movie_2025\\frm_rent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9C845790-4E77-4B4B-A121-BE3D7F37C551}|NT_Movie_2025.csproj|solutionrelative:frm_rent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C845790-4E77-4B4B-A121-BE3D7F37C551}|NT_Movie_2025.csproj|D:\\NT_Movie_2025\\adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C845790-4E77-4B4B-A121-BE3D7F37C551}|NT_Movie_2025.csproj|solutionrelative:adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C845790-4E77-4B4B-A121-BE3D7F37C551}|NT_Movie_2025.csproj|d:\\nt_movie_2025\\frm_movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C845790-4E77-4B4B-A121-BE3D7F37C551}|NT_Movie_2025.csproj|solutionrelative:frm_movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C845790-4E77-4B4B-A121-BE3D7F37C551}|NT_Movie_2025.csproj|D:\\NT_Movie_2025\\frm_member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9C845790-4E77-4B4B-A121-BE3D7F37C551}|NT_Movie_2025.csproj|solutionrelative:frm_member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C845790-4E77-4B4B-A121-BE3D7F37C551}|NT_Movie_2025.csproj|D:\\NT_Movie_2025\\frm_member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C845790-4E77-4B4B-A121-BE3D7F37C551}|NT_Movie_2025.csproj|solutionrelative:frm_member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C845790-4E77-4B4B-A121-BE3D7F37C551}|NT_Movie_2025.csproj|D:\\NT_Movie_2025\\frm_rent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C845790-4E77-4B4B-A121-BE3D7F37C551}|NT_Movie_2025.csproj|solutionrelative:frm_rent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C845790-4E77-4B4B-A121-BE3D7F37C551}|NT_Movie_2025.csproj|d:\\nt_movie_2025\\frm_member.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C845790-4E77-4B4B-A121-BE3D7F37C551}|NT_Movie_2025.csproj|solutionrelative:frm_member.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C845790-4E77-4B4B-A121-BE3D7F37C551}|NT_Movie_2025.csproj|D:\\NT_Movie_2025\\adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9C845790-4E77-4B4B-A121-BE3D7F37C551}|NT_Movie_2025.csproj|solutionrelative:adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C845790-4E77-4B4B-A121-BE3D7F37C551}|NT_Movie_2025.csproj|D:\\NT_Movie_2025\\frm_movie_type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{9C845790-4E77-4B4B-A121-BE3D7F37C551}|NT_Movie_2025.csproj|D:\\C#\\c-\\frm_movie_type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9C845790-4E77-4B4B-A121-BE3D7F37C551}|NT_Movie_2025.csproj|solutionrelative:frm_movie_type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C845790-4E77-4B4B-A121-BE3D7F37C551}|NT_Movie_2025.csproj|D:\\NT_Movie_2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C845790-4E77-4B4B-A121-BE3D7F37C551}|NT_Movie_2025.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C845790-4E77-4B4B-A121-BE3D7F37C551}|NT_Movie_2025.csproj|D:\\C#\\c-\\frm_movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C845790-4E77-4B4B-A121-BE3D7F37C551}|NT_Movie_2025.csproj|solutionrelative:frm_movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C845790-4E77-4B4B-A121-BE3D7F37C551}|NT_Movie_2025.csproj|D:\\NT_Movie_2025\\frm_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9C845790-4E77-4B4B-A121-BE3D7F37C551}|NT_Movie_2025.csproj|D:\\C#\\c-\\frm_movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C845790-4E77-4B4B-A121-BE3D7F37C551}|NT_Movie_2025.csproj|solutionrelative:frm_movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C845790-4E77-4B4B-A121-BE3D7F37C551}|NT_Movie_2025.csproj|D:\\C#\\c-\\frm_member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C845790-4E77-4B4B-A121-BE3D7F37C551}|NT_Movie_2025.csproj|solutionrelative:frm_member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C845790-4E77-4B4B-A121-BE3D7F37C551}|NT_Movie_2025.csproj|D:\\C#\\c-\\frm_member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C845790-4E77-4B4B-A121-BE3D7F37C551}|NT_Movie_2025.csproj|solutionrelative:frm_member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C845790-4E77-4B4B-A121-BE3D7F37C551}|NT_Movie_2025.csproj|D:\\C#\\c-\\frm_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C845790-4E77-4B4B-A121-BE3D7F37C551}|NT_Movie_2025.csproj|solutionrelative:frm_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C845790-4E77-4B4B-A121-BE3D7F37C551}|NT_Movie_2025.csproj|D:\\NT_Movie_2025\\frm_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{9C845790-4E77-4B4B-A121-BE3D7F37C551}|NT_Movie_2025.csproj|D:\\C#\\c-\\frm_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9C845790-4E77-4B4B-A121-BE3D7F37C551}|NT_Movie_2025.csproj|solutionrelative:frm_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C845790-4E77-4B4B-A121-BE3D7F37C551}|NT_Movie_2025.csproj|D:\\C#\\c-\\adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C845790-4E77-4B4B-A121-BE3D7F37C551}|NT_Movie_2025.csproj|solutionrelative:adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C845790-4E77-4B4B-A121-BE3D7F37C551}|NT_Movie_2025.csproj|D:\\C#\\c-\\frm_rent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C845790-4E77-4B4B-A121-BE3D7F37C551}|NT_Movie_2025.csproj|solutionrelative:frm_rent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C845790-4E77-4B4B-A121-BE3D7F37C551}|NT_Movie_2025.csproj|D:\\C#\\c-\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C845790-4E77-4B4B-A121-BE3D7F37C551}|NT_Movie_2025.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C845790-4E77-4B4B-A121-BE3D7F37C551}|NT_Movie_2025.csproj|d:\\c#\\c-\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C845790-4E77-4B4B-A121-BE3D7F37C551}|NT_Movie_2025.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C845790-4E77-4B4B-A121-BE3D7F37C551}|NT_Movie_2025.csproj|D:\\C#\\c-\\frm_movie_type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C845790-4E77-4B4B-A121-BE3D7F37C551}|NT_Movie_2025.csproj|solutionrelative:frm_movie_type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C845790-4E77-4B4B-A121-BE3D7F37C551}|NT_Movie_2025.csproj|D:\\C#\\c-\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C845790-4E77-4B4B-A121-BE3D7F37C551}|NT_Movie_2025.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C845790-4E77-4B4B-A121-BE3D7F37C551}|NT_Movie_2025.csproj|D:\\C#\\c-\\adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C845790-4E77-4B4B-A121-BE3D7F37C551}|NT_Movie_2025.csproj|solutionrelative:adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C845790-4E77-4B4B-A121-BE3D7F37C551}|NT_Movie_2025.csproj|D:\\C#\\c-\\frm_rent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C845790-4E77-4B4B-A121-BE3D7F37C551}|NT_Movie_2025.csproj|solutionrelative:frm_rent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,17 +70,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\NT_Movie_2025\\Program.cs",
+              "DocumentMoniker": "D:\\C#\\c-\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\NT_Movie_2025\\Program.cs",
+              "ToolTip": "D:\\C#\\c-\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwBIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-18T12:02:52.839Z",
               "IsPinned": true,
@@ -92,11 +88,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "Login.cs [Design]",
-              "DocumentMoniker": "D:\\NT_Movie_2025\\Login.cs",
+              "DocumentMoniker": "D:\\C#\\c-\\Login.cs",
               "RelativeDocumentMoniker": "Login.cs",
-              "ToolTip": "D:\\NT_Movie_2025\\Login.cs [Design]",
+              "ToolTip": "D:\\C#\\c-\\Login.cs [Design]",
               "RelativeToolTip": "Login.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-11T11:36:06.457Z",
@@ -105,13 +101,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "Login.cs",
-              "DocumentMoniker": "D:\\NT_Movie_2025\\Login.cs",
+              "DocumentMoniker": "D:\\C#\\c-\\Login.cs",
               "RelativeDocumentMoniker": "Login.cs",
-              "ToolTip": "D:\\NT_Movie_2025\\Login.cs",
+              "ToolTip": "D:\\C#\\c-\\Login.cs",
               "RelativeToolTip": "Login.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAiwDEAAABFAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwCgAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-18T11:54:42.19Z",
               "IsPinned": true,
@@ -119,11 +115,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "frm_rent.cs [Design]",
-              "DocumentMoniker": "D:\\NT_Movie_2025\\frm_rent.cs",
+              "DocumentMoniker": "D:\\C#\\c-\\frm_rent.cs",
               "RelativeDocumentMoniker": "frm_rent.cs",
-              "ToolTip": "D:\\NT_Movie_2025\\frm_rent.cs [Design]",
+              "ToolTip": "D:\\C#\\c-\\frm_rent.cs [Design]",
               "RelativeToolTip": "frm_rent.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-11T12:39:03.196Z",
@@ -132,13 +128,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "frm_rent.cs",
-              "DocumentMoniker": "D:\\NT_Movie_2025\\frm_rent.cs",
+              "DocumentMoniker": "D:\\C#\\c-\\frm_rent.cs",
               "RelativeDocumentMoniker": "frm_rent.cs",
-              "ToolTip": "D:\\NT_Movie_2025\\frm_rent.cs",
+              "ToolTip": "D:\\C#\\c-\\frm_rent.cs",
               "RelativeToolTip": "frm_rent.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAA4wMkAAABEAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBkAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-18T12:05:28.208Z",
               "IsPinned": true,
@@ -146,48 +142,65 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "frm_movie_type.cs [Design]",
-              "DocumentMoniker": "D:\\NT_Movie_2025\\frm_movie_type.cs",
-              "RelativeDocumentMoniker": "frm_movie_type.cs",
-              "ToolTip": "D:\\NT_Movie_2025\\frm_movie_type.cs [Design]",
-              "RelativeToolTip": "frm_movie_type.cs [Design]",
+              "DocumentIndex": 1,
+              "Title": "frm_movie.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\c-\\frm_movie.cs",
+              "RelativeDocumentMoniker": "frm_movie.cs",
+              "ToolTip": "D:\\C#\\c-\\frm_movie.cs [Design]",
+              "RelativeToolTip": "frm_movie.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T12:34:02.434Z",
+              "WhenOpened": "2025-02-11T11:47:32.335Z",
+              "IsPinned": true,
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "frm_movie_type.cs",
-              "DocumentMoniker": "D:\\NT_Movie_2025\\frm_movie_type.cs",
-              "RelativeDocumentMoniker": "frm_movie_type.cs",
-              "ToolTip": "D:\\NT_Movie_2025\\frm_movie_type.cs",
-              "RelativeToolTip": "frm_movie_type.cs",
-              "ViewState": "AgIAAHsAAAAAAAAAAAAUwIcAAAArAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "frm_movie.cs",
+              "DocumentMoniker": "D:\\C#\\c-\\frm_movie.cs",
+              "RelativeDocumentMoniker": "frm_movie.cs",
+              "ToolTip": "D:\\C#\\c-\\frm_movie.cs",
+              "RelativeToolTip": "frm_movie.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAIwFYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T03:48:38.268Z",
+              "WhenOpened": "2025-02-21T03:21:22.08Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "frm_movie.cs [Design]",
-              "DocumentMoniker": "D:\\NT_Movie_2025\\frm_movie.cs",
-              "RelativeDocumentMoniker": "frm_movie.cs",
-              "ToolTip": "D:\\NT_Movie_2025\\frm_movie.cs [Design]",
-              "RelativeToolTip": "frm_movie.cs [Design]",
+              "DocumentIndex": 0,
+              "Title": "frm_movie_type.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\c-\\frm_movie_type.cs",
+              "RelativeDocumentMoniker": "frm_movie_type.cs",
+              "ToolTip": "D:\\C#\\c-\\frm_movie_type.cs [Design]",
+              "RelativeToolTip": "frm_movie_type.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T11:47:32.335Z",
+              "WhenOpened": "2025-02-11T12:34:02.434Z",
+              "IsPinned": true,
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "frm_movie_type.cs",
+              "DocumentMoniker": "D:\\C#\\c-\\frm_movie_type.cs",
+              "RelativeDocumentMoniker": "frm_movie_type.cs",
+              "ToolTip": "D:\\C#\\c-\\frm_movie_type.cs",
+              "RelativeToolTip": "frm_movie_type.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwBUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T03:48:38.268Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "adduser.cs [Design]",
-              "DocumentMoniker": "D:\\NT_Movie_2025\\adduser.cs",
+              "DocumentMoniker": "D:\\C#\\c-\\adduser.cs",
               "RelativeDocumentMoniker": "adduser.cs",
-              "ToolTip": "D:\\NT_Movie_2025\\adduser.cs [Design]",
+              "ToolTip": "D:\\C#\\c-\\adduser.cs [Design]",
               "RelativeToolTip": "adduser.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-21T16:19:13.446Z",
@@ -195,50 +208,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "adduser.cs",
-              "DocumentMoniker": "D:\\NT_Movie_2025\\adduser.cs",
+              "DocumentMoniker": "D:\\C#\\c-\\adduser.cs",
               "RelativeDocumentMoniker": "adduser.cs",
-              "ToolTip": "D:\\NT_Movie_2025\\adduser.cs",
+              "ToolTip": "D:\\C#\\c-\\adduser.cs",
               "RelativeToolTip": "adduser.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAswC8AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-21T16:19:18.482Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "frm_member.Designer.cs",
-              "DocumentMoniker": "D:\\NT_Movie_2025\\frm_member.Designer.cs",
-              "RelativeDocumentMoniker": "frm_member.Designer.cs",
-              "ToolTip": "D:\\NT_Movie_2025\\frm_member.Designer.cs",
-              "RelativeToolTip": "frm_member.Designer.cs",
-              "ViewState": "AgIAAAoBAAAAAAAAAIA0wBYBAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T03:38:50.412Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "frm_movie.cs",
-              "DocumentMoniker": "D:\\NT_Movie_2025\\frm_movie.cs",
-              "RelativeDocumentMoniker": "frm_movie.cs",
-              "ToolTip": "D:\\NT_Movie_2025\\frm_movie.cs",
-              "RelativeToolTip": "frm_movie.cs",
-              "ViewState": "AgIAANMAAAAAAAAAAAAWwOIAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T03:21:22.08Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "frm_member.cs [Design]",
-              "DocumentMoniker": "D:\\NT_Movie_2025\\frm_member.cs",
+              "DocumentMoniker": "D:\\C#\\c-\\frm_member.cs",
               "RelativeDocumentMoniker": "frm_member.cs",
-              "ToolTip": "D:\\NT_Movie_2025\\frm_member.cs [Design]",
+              "ToolTip": "D:\\C#\\c-\\frm_member.cs [Design]",
               "RelativeToolTip": "frm_member.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-11T11:16:44.878Z",
@@ -246,41 +233,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "frm_member.cs",
-              "DocumentMoniker": "D:\\NT_Movie_2025\\frm_member.cs",
+              "DocumentMoniker": "D:\\C#\\c-\\frm_member.cs",
               "RelativeDocumentMoniker": "frm_member.cs",
-              "ToolTip": "D:\\NT_Movie_2025\\frm_member.cs",
+              "ToolTip": "D:\\C#\\c-\\frm_member.cs",
               "RelativeToolTip": "frm_member.cs",
-              "ViewState": "AgIAAAoBAAAAAAAAAAA4wBYBAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABgBAAAAAAAAAAAUwCMBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-21T04:37:28.885Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "frm_menu.cs",
-              "DocumentMoniker": "D:\\NT_Movie_2025\\frm_menu.cs",
+              "DocumentIndex": 6,
+              "Title": "frm_menu.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\c-\\frm_menu.cs",
               "RelativeDocumentMoniker": "frm_menu.cs",
-              "ToolTip": "D:\\NT_Movie_2025\\frm_menu.cs",
-              "RelativeToolTip": "frm_menu.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAIA0wEUAAAAJAAAAAAAAAA==",
+              "ToolTip": "D:\\C#\\c-\\frm_menu.cs [Design]",
+              "RelativeToolTip": "frm_menu.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T06:24:22.117Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T15:49:08.595Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "frm_menu.cs [Design]",
-              "DocumentMoniker": "D:\\NT_Movie_2025\\frm_menu.cs",
+              "DocumentIndex": 5,
+              "Title": "frm_menu.cs",
+              "DocumentMoniker": "D:\\C#\\c-\\frm_menu.cs",
               "RelativeDocumentMoniker": "frm_menu.cs",
-              "ToolTip": "D:\\NT_Movie_2025\\frm_menu.cs [Design]",
-              "RelativeToolTip": "frm_menu.cs [Design]",
+              "ToolTip": "D:\\C#\\c-\\frm_menu.cs",
+              "RelativeToolTip": "frm_menu.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAIwEcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T12:11:18.994Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-02-21T06:24:22.117Z",
+              "EditorCaption": ""
             }
           ]
         }

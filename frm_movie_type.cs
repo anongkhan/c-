@@ -19,7 +19,7 @@ namespace NT_Movie_2025
             InitializeComponent();
             Auto_id();
         }
-        SqlConnection con = new SqlConnection("Data Source=DESKTOP-DG7MDRT; Initial Catalog=NT_Movie_2025; Integrated Security=SSPI;");
+        SqlConnection con = new SqlConnection("Data Source=NONG; Initial Catalog=NT_Movie_2025; Integrated Security=SSPI;");
         SqlCommand cmd;
         SqlDataAdapter da;
         SqlDataReader dr;

@@ -21,7 +21,7 @@ namespace NT_Movie_2025
             load_id();
 
         }
-        SqlConnection con = new SqlConnection("Data Source=DESKTOP-DG7MDRT; Initial Catalog=NT_Movie_2025; Integrated Security=SSPI;");
+        SqlConnection con = new SqlConnection("Data Source=NONG; Initial Catalog=NT_Movie_2025; Integrated Security=SSPI;");
         SqlCommand cmd;
         SqlDataAdapter da;
         SqlDataReader dr;
@@ -225,6 +225,11 @@ namespace NT_Movie_2025
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
             dataGridView1.Show();
+        }
+
+        private void txt_search_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 

@@ -20,7 +20,7 @@ namespace NT_Movie_2025
             Auto_id();
         }
 
-        SqlConnection con = new SqlConnection("Data Source=DESKTOP-DG7MDRT; Initial Catalog=NT_Movie_2025; Integrated Security=SSPI;");
+        SqlConnection con = new SqlConnection("Data Source=NONG; Initial Catalog=NT_Movie_2025; Integrated Security=SSPI;");
         SqlCommand cmd;
         SqlDataAdapter da;
         string sql;
@@ -285,6 +285,11 @@ namespace NT_Movie_2025
             frm_menu f = new frm_menu();
             f.ShowDialog();
             this.Hide();
+        }
+
+        private void frm_member_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

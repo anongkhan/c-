@@ -66,5 +66,10 @@ namespace NT_Movie_2025
             f.ShowDialog();
             this.Hide();
         }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

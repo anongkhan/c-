@@ -279,7 +279,8 @@ namespace NT_Movie_2025
             LoadData(); // Optionally reload data or filter based on search text
         }
 
-        private void button1_Click(object sender, EventArgs e)
+
+        private void button1_Click_1(object sender, EventArgs e)
         {
             frm_menu f = new frm_menu();
             f.ShowDialog();
